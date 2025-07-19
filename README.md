@@ -22,8 +22,10 @@ I’m a consistent contributor to real-world projects, a national hackathon fina
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 ### 🌐 Frameworks & Tools  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -32,6 +34,8 @@ I’m a consistent contributor to real-world projects, a national hackathon fina
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django)
 ![Remix IDE](https://img.shields.io/badge/-Remix_IDE-black?style=flat-square&logo=ethereum)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+![WordPress](https://img.shields.io/badge/-WordPress-black?style=flat-square&logo=wordpress)
+![Nginx](https://img.shields.io/badge/-Nginx-black?style=flat-square&logo=nginx)
 
 ### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
