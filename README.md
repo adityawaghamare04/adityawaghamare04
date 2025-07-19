@@ -40,9 +40,6 @@ I’m a consistent contributor to real-world projects, a national hackathon fina
 ### 🗄️ Databases  
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-
----
 
 ## 🌱 Currently Learning
 - 🔁 Advanced React patterns
