@@ -72,6 +72,7 @@ I’m a consistent contributor to real-world projects, a national hackathon fina
 - 🎓 Completed Certifications:
   - Goldman Sachs Operations – Forage
   - AWS APAC Solutions Architecture – Forage
+  - Intermediate Js Certificate - Hackerrank
 
 
 ## 🎯 Extracurricular Activities
