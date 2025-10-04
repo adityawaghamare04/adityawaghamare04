@@ -62,7 +62,7 @@ I’m a consistent contributor to real-world projects, a national hackathon fina
 
 ## 🏆 Achievements
 
-- 🥇 Finalist in 8+ National Hackathons:
+- 🥇 Finalist in many National Level Hackathons:
   - Navonmesh 2.0 (SSPIMT, Raipur)
   - Innothon 2025 (IIIT Bhubaneswar)
   - SRM Hack 6.0 (SRM University, Sonepat)
