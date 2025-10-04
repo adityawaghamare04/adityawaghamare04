@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Aditya Waghamare! 👋</h1>
+<h1 align="center">Hi, I'm Aditya Waghamare! 👋</h1>
 
 <p align="center">
     🌐 AI/Web3 Developer | 💸 Finance Enthusiast | 🏆 Hackathon Finalist | 🤖 Passionate about Scalable Tech | 🌐 Open Source Contributor</p>
