@@ -84,11 +84,12 @@ I am a **Full-Stack Software Engineer** and **AI / Agentic Systems Architect** w
 
 | Project | Tech Stack | Description | Links |
 | :--- | :--- | :--- | :---: |
+| 🌐 **Personal Portfolio** | `React` `Next.js` `TailwindCSS` | Interactive personal showcase highlighting AI/Web3 engineering projects, stats, and achievements. | [🔗 Repo](https://github.com/adityawaghamare04/adityawaghamare04) • [🚀 Live Demo](https://www.adityawaghamare.in/) |
 | 🎓 **Adhyayan** | `React` `Next.js` `OpenAI API` | Adaptive AI learning platform that personalizes lessons based on performance data and learning styles. | [🔗 Repo](https://github.com/adityawaghamare04/Adhyayan) • [🚀 Live Demo](https://adhyayan1.vercel.app/) |
 | 🤖 **AgentClaw** | `TypeScript` `Multi-Agent` `Base L2` | 24/7 autonomous bounty engine featuring multi-provider failover, universal PR dispatching & Base L2 settlements. | [🔗 Repo](https://github.com/adityawaghamare04/AgentClaw) |
 | 🎙️ **UnmuteAI** | `Python` `FastAPI` `Whisper AI` | AI-powered accessibility platform transforming speech & audio into real-time interactive intelligence. | [🔗 Repo](https://github.com/adityawaghamare04/UnmuteAI) |
 | 📸 **SoulSnap** | `HTML5` `CSS3` `JavaScript` | Modern portfolio & client engagement platform tailored for creative photographers. | [🔗 Repo](https://github.com/adityawaghamare04/PRODIGY_WD_01) |
-| 🌐 **Personal Portfolio** | `React` `Next.js` `TailwindCSS` | Interactive personal showcase highlighting AI/Web3 engineering projects, stats, and achievements. | [🔗 Repo](https://github.com/adityawaghamare04/adityawaghamare04) |
+
 
 ---
 
